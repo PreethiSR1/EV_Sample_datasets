@@ -1,0 +1,201 @@
+,UID,Name,Age,E-Mail,Address,City,Country,License_Num,Vehicle_Model,KWh,SOC,Parking_time,Departure_time
+0,e3e70682-c209-4cac-629f-6fbed82c07cd,Edwin Baum-Killer,64,junkkaren@schmiedecke.de,"Heydrichweg 5/5
+96785 Wismar",Neustadt am Rübenberge,Germany,MOL-I-64,Chevrolet 1500 Extended Cab,5.08,0.8,2017-08-09 06:27:47.897373,2017-08-09 10:38:22.545718
+1,f728b4fa-4248-5e3a-0a5d-2f346baa9455,Türkan Kobelt,70,vschaaf@hotmail.de,"Nelly-Löchel-Straße 060
+22176 Eggenfelden",Gunzenhausen,Germany,AS-CE-828,Audi A3,0.55,0.68,2021-05-31 07:50:41.935340,2021-05-31 12:10:31.599401
+2,eb1167b3-67a9-c378-7c65-c1e582e2e662,Ulla Beyer-Gnatz,43,langernmichaele@anders.com,"Leonardo-Wieloch-Allee 3
+59830 Meppen",Prenzlau,Germany,DA-M-1711,Volkswagen Jetta,7.35,0.4,2017-10-22 11:47:38.142434,2017-10-22 19:23:46.573289
+3,f7c1bd87-4da5-e709-d471-3d60c8a70639,Carl-Heinz Dietz-Peukert,62,anatolij29@gmail.com,"Döhnring 98
+28507 Fürstenwalde",Haldensleben,Germany,KIB-JL-39,Audi S5,1.27,0.75,2020-04-12 18:24:35.866213,2020-04-12 21:00:56.401994
+4,e443df78-9558-867f-5ba9-1faf7a024204,Enrico Thies,45,christos99@martin.net,"Heinz-Peter-Hendriks-Weg 643
+20721 Göppingen",Stadtsteinach,Germany,PF-JY-188,Nissan LEAF,1.21,0.67,2017-02-22 00:46:09.689799,2017-02-22 08:13:57.881911
+5,23a7711a-8133-2876-37eb-dcd9e87a1613,Gundi Mitschke B.Sc.,44,wirthleyla@gmx.de,"Claus-Dieter-Beer-Gasse 994
+66137 Herford",Lübben,Germany,NB-T-48,GMC Acadia,8.22,0.26,2016-08-17 00:42:37.613996,2016-08-17 16:58:17.115465
+6,1846d424-c17c-6279-23c6-612f48268673,Clarissa Koch-Langern,41,ditschlerinkristiane@schmiedecke.com,"Harloffallee 90
+09340 Einbeck",Burg,Germany,SLF-B-886,Ford Crown Victoria,9.37,0.52,2018-03-23 15:52:49.759113,2018-03-23 16:43:14.970541
+7,fcbd04c3-4021-2ef7-cca5-a5a19e4d6e3c,Prof. Emilia Hölzenbecher,65,tabeahermann@aol.de,"Heßallee 2/7
+59064 Reutlingen",Quedlinburg,Germany,SÖM-NL-467,Ram 2500 Crew Cab,1.86,0.44,2017-08-11 01:24:46.609228,2017-08-11 08:57:38.414373
+8,b4862b21-fb97-d435-8856-1712e8e5216a,Hubert Mende,61,nstadelmann@krause.org,"Anke-Albers-Weg 7/3
+16026 Schwabmünchen",Recklinghausen,Germany,ES-C-855,Audi S4,0.18,0.75,2018-08-31 17:45:53.818916,2018-08-31 18:31:08.253384
+9,259f4329-e6f4-590b-9a16-4106cf6a659e,Ing. Ehrhard Dehmel MBA.,30,dariuszlangern@yahoo.de,"Meisterplatz 4/9
+38575 Schwäbisch Gmünd",Lüdenscheid,Germany,HA-M-224,Oldsmobile Bravada,2.22,0.46,2015-03-06 20:37:17.945988,2015-03-07 07:49:57.937672
+10,12e0c8b2-bad6-40fb-1948-8dec4f65d4d9,Axel Steinberg-Scheuermann,52,hans-joachim88@aol.de,"Wähnerweg 76
+00386 Eichstätt",Wismar,Germany,FO-WA-636,Dodge Ram Wagon 1500,7.49,0.33,2020-08-24 05:18:01.262184,2020-08-24 05:50:16.739680
+11,5487ce1e-af19-922a-d9b8-a714e61a441c,Hanno Ortmann B.A.,89,doehnchristian@yahoo.de,"Samir-Loos-Straße 578
+87319 Belzig",Groß-Gerau,Germany,BRB-XB-81,Toyota Tundra CrewMax,7.37,0.55,2015-01-26 12:47:50.664209,2015-01-26 21:01:32.610908
+12,5a921187-19c7-8df4-8f4f-f31e78de5857,Adeline Hethur,32,mechthildemeyer@web.de,"Lehmannring 83
+06878 Stuttgart",Haldensleben,Germany,HS-RD-1781,Chevrolet Suburban 1500,1.93,0.49,2021-11-10 17:58:32.172358,2021-11-11 06:28:37.845196
+13,a3f2c9bf-9c63-16b9-50f2-44556f25e2a2,Victoria Gunpf,83,zoltan17@web.de,"Kostolzinring 81
+56644 Main-Höchst",Mainburg,Germany,KH-J-379,Land Rover LR3,2.4,0.86,2019-05-27 02:15:56.730388,2019-05-27 03:55:57.247321
+14,8d723104-f773-83c1-3458-a748e9bb17bc,Oda Heintze,86,filippohaering@bachmann.com,"Eckhard-Rohleder-Allee 5/3
+78030 Kulmbach",Herford,Germany,UE-P-63,Audi A4,0.32,0.82,2016-03-25 01:02:53.550115,2016-03-26 01:06:10.027568
+15,85776e9a-dd84-f39e-7154-5a137a1d5006,Dipl.-Ing. Hedwig Hauffer MBA.,68,gerdiwirth@anders.de,"Luka-Wähner-Straße 3
+14656 Demmin",Lippstadt,Germany,PA-JW-282,Ford F250 Super Duty Regular Cab,5.94,0.84,2015-06-18 06:09:58.693105,2015-06-18 09:05:28.884315
+16,eb2083e6-ce16-4dba-0ff1-8e0242af9fc3,Dr. Alla Junck B.Eng.,22,paula78@dowerg.de,"Tom-Binner-Straße 9/3
+52651 Melsungen",Hünfeld,Germany,FO-IY-1618,Toyota Prius v,4.23,0.63,2021-05-20 05:40:40.712225,2021-05-20 07:24:21.810116
+17,17e0aa3c-0398-3ca8-ea7e-9d498c778ea6,Heinz-Günther Hermighausen-Tröst,26,xreichmann@aol.de,"Henkstraße 5/1
+28817 Husum",Artern,Germany,HAM-S-714,Dodge Ram 1500 Regular Cab,5.29,0.76,2015-02-26 08:28:14.820199,2015-02-26 10:55:52.782132
+18,b5d32b16-6619-4cb1-d710-37d1b83e90ec,Rosalie Scholl,51,jkranz@gmx.de,"Mareike-Stroh-Ring 68
+14936 Halberstadt",Arnstadt,Germany,HR-ZU-763,Dodge Sprinter 3500 Cargo,9.13,0.77,2022-09-18 16:19:16.345407,2022-09-19 05:53:25.312347
+19,a0116be5-ab0c-1681-c8f8-e3d0d3290a4c,Ing. Eduard Biggen,68,alexeieckbauer@stahr.com,"Madlen-Schomber-Straße 198
+44944 Großenhain",Forst,Germany,EN-EH-19,GMC Savana 3500 Passenger,5.6,0.7,2021-01-24 11:40:19.529984,2021-01-25 11:06:41.271902
+20,d3fbf47a-7e5b-1e7f-9ca5-499d004ae545,Olena Sontag B.A.,81,luigischeibe@weinhold.org,"Zdravko-Kabus-Weg 102
+71422 Apolda",Mittweida,Germany,MST-P-4855,Chevrolet Corvette,1.98,0.25,2022-05-08 19:53:37.690395,2022-05-09 10:49:10.896465
+21,baf3897a-3e70-f16a-5548-5822de1b372a,Dipl.-Ing. Leokadia Söding,76,schleichmanja@gmail.com,"Köhlerstraße 1
+17124 Sebnitz",Burg,Germany,GP-VV-32,Isuzu Hombre Regular Cab,1.78,0.88,2016-12-29 03:52:20.925498,2016-12-29 08:05:32.886376
+22,101fbccc-ded7-33e8-b421-eaeb534097ca,Dr. Elli Atzler,64,jaehnvictor@keudel.com,"Gerda-Jäntsch-Straße 3/5
+21499 Viechtach",Mühlhausen,Germany,SK-B-35,Ford Transit Connect Cargo,1.34,0.31,2017-11-21 21:38:52.462659,2017-11-22 13:07:59.305870
+23,38c1962e-9148-624f-eac1-c14f30e9c5cc,James Meyer,74,hannes68@maelzer.com,"Gislinde-Krebs-Ring 9/8
+01204 Haldensleben",Moers,Germany,LDK-DL-89,Hyundai Sonata,6.97,0.42,2018-09-11 16:37:01.637636,2018-09-11 21:33:27.860889
+24,247a8333-f7b0-b7d2-cda8-056c3d15eef7,Ole Fröhlich-Kusch,28,hermighausenfrancesco@hornig.org,"Kraushaarplatz 007
+33079 Luckenwalde",Hildburghausen,Germany,BM-U-42,Volkswagen Touareg,0.5,0.37,2018-03-14 11:29:45.765485,2018-03-15 04:10:41.388068
+25,1759edc3-72ae-2244-8b01-63c1cd9d2b7d,Robin Säuberlich-Klemm,26,meisterjasmin@googlemail.com,"Kuhlallee 47
+15576 Suhl",Perleberg,Germany,NR-MN-1386,BMW M6,7.56,0.85,2017-05-28 02:16:48.268208,2017-05-28 17:59:30.411292
+26,e005b860-51ef-1922-fe43-c49e149818d1,Gönül Bärer,82,holtpamela@gmx.de,"Hanni-Misicher-Platz 6/1
+85200 Wesel",Hünfeld,Germany,TIR-W-653,Mercury Mountaineer,4.92,0.8,2022-02-21 01:26:50.053720,2022-02-21 07:48:55.475252
+27,7d41e602-eece-328b-ff7b-118e820865d6,Frau Janna Jungfer,45,alf71@gmx.de,"Klemmstraße 6
+79766 Neuruppin",Rastatt,Germany,RÜD-NV-12,Ford Expedition,9.04,0.45,2018-05-25 01:37:02.669949,2018-05-25 18:20:02.820822
+28,4a84eb03-8d1f-d9b7-4d2b-9deb1beb3711,Aloys Scholl,34,mschenk@ditschlerin.de,"Augustin-Beier-Straße 766
+02244 Emmendingen",Büsingen am Hochrhein,Germany,FL-JG-94,Ford Windstar Cargo,8.43,0.38,2021-05-20 15:48:33.096373,2021-05-20 21:48:28.130818
+29,552f233a-8c25-166a-1ff3-9849b4e1357d,Jurij Bachmann,87,ystiffel@hotmail.de,"Rustgasse 5/9
+28302 Ueckermünde",Wittenberg,Germany,MB-G-614,Audi A8,2.03,0.73,2020-10-30 23:49:31.761189,2020-10-31 00:09:58.883417
+30,3405095c-8a50-06c1-ec18-8efbd080e66e,Prof. Bodo Wende,18,hornigemanuel@yahoo.de,"Francesco-van der Dussen-Straße 184
+94638 Lichtenfels",Oberviechtach,Germany,ZW-WT-23,GMC Acadia,1.7,0.57,2019-07-11 08:50:18.153685,2019-07-12 05:34:28.113269
+31,8c1745a7-9a6a-5f92-cca7-4147f6be1f72,Gusti Weiß-Hiller,19,harold00@schoenland.net,"Sorgatzallee 091
+00948 Jessen",Jülich,Germany,NR-W-592,Mercedes-Benz Mercedes-AMG GLA,7.76,0.61,2022-03-17 13:35:48.450238,2022-03-17 20:52:56.388125
+32,1775336d-71ea-cd05-49a3-e80e966e1277,Dipl.-Ing. Eckehard Söding B.Sc.,56,poelitzcetin@web.de,"Heinrich-Hoffmann-Allee 44
+78471 Hildesheim",Eilenburg,Germany,DAH-J-93,GMC Sierra 1500 Double Cab,4.1,0.71,2020-04-29 04:31:27.131621,2020-04-30 09:45:22.786532
+33,5129fb7c-6288-e1a5-cc45-782198a6416d,Leonore Fliegner,83,aennegumprich@bolzmann.de,"Ullrichring 50
+02643 Riesa",Eberswalde,Germany,SLF-FC-399,Volvo C70,9.73,0.35,2022-06-19 22:41:55.835480,2022-06-20 05:56:39.967722
+34,2f120554-4a53-08cc-3dfa-bc08935ddd72,Krista Binner-Sorgatz,20,carinaloechel@googlemail.com,"Rochus-Thanel-Straße 0
+84772 Gerolzhofen",Stollberg,Germany,SC-KU-327,Dodge Dakota Club Cab,2.75,0.72,2020-11-29 08:11:02.798033,2020-11-29 09:16:12.323140
+35,0870e15c-2fcd-81b5-d24b-ace4307bf326,Prof. Osman Roht,72,van-der-dussenannelore@losekann.com,"Holstenplatz 69
+90956 Brand",Parchim,Germany,GR-LW-522,Honda S2000,3.64,0.43,2020-02-09 04:00:00.391661,2020-02-09 10:12:08.346391
+36,42930b33-a81a-d477-fb36-75b89cdeb3e6,Ing. Slavko Höfig,42,yseifert@gmail.com,"Hillerweg 587
+16869 Ludwigsburg",Fürstenwalde,Germany,W-U-95,Ford F250 Regular Cab,3.88,0.64,2019-02-24 17:23:13.376605,2019-02-25 14:34:10.273728
+37,adc0da7a-16fe-baa0-11af-923d79fdef7c,Arno Gierschner-Beier,51,vschmiedecke@hotmail.de,"Tröststraße 8
+98917 Parchim",Viersen,Germany,MN-UP-161,Chevrolet S10 Blazer,8.25,0.86,2017-11-06 02:00:20.823472,2017-11-06 09:08:45.393124
+38,2648ee38-e074-05eb-2156-63abc1f254b8,Antonina Mies,73,ohenschel@gmail.com,"Gerdi-Davids-Straße 2
+11663 Vechta",Neubrandenburg,Germany,H-C-9,Chevrolet Silverado 1500 Extended Cab,7.41,0.84,2017-09-21 07:58:27.459822,2017-09-21 12:03:05.634575
+39,148b2758-d7ab-7928-09e4-69e6ec62b2c8,Andree Salz,68,mmohaupt@aol.de,"Tintzmannstr. 47
+00167 Cloppenburg",Lübeck,Germany,BAR-TT-9,Nissan Versa,8.39,0.62,2022-03-06 01:48:52.260473,2022-03-06 02:05:32.429136
+40,d450fe4a-ec4f-217b-b306-d1a8e5eeac76,Volker Trub B.Sc.,67,drubahmed@holzapfel.de,"Marko-Hörle-Ring 4/6
+12381 Stade",Ravensburg,Germany,Do-PN-423,Mercedes-Benz S-Class,2.06,0.36,2017-12-04 23:34:34.896234,2017-12-05 13:00:29.013434
+41,d67e55fd-642b-fa42-aef9-c00b8a64c1b9,Hartmut Huhn,37,milosfroehlich@googlemail.com,"Dowerggasse 390
+98172 Meppen",Bamberg,Germany,RP-MP-92,Volvo 940,9.71,0.63,2021-06-15 17:50:46.990366,2021-06-16 10:53:59.228031
+42,85940927-468f-f53d-864a-7a50b48d73f1,Luise auch Schlauchin B.A.,25,seiphannelore@hartmann.de,"Fliegnerweg 69
+40761 Neustadt am Rübenberge",Zeulenroda,Germany,ND-H-578,Mitsubishi 3000GT,3.65,0.86,2020-12-30 14:46:12.778155,2020-12-31 05:47:49.260622
+43,37176e84-d977-e993-3c49-d76fcfc6e625,Saban Mangold,26,ivanavollbrecht@tlustek.de,"Maya-Hecker-Allee 6/5
+35127 Hofgeismar",Pfaffenhofen an der Ilm,Germany,WOB-U-64,Volkswagen Golf GTI,8.97,0.39,2018-06-12 18:06:00.092963,2018-06-12 18:48:32.842112
+44,d3447490-96fd-35d0-adf2-0806e5214606,Matthias Stiffel,37,jvollbrecht@web.de,"Franz Josef-Striebitz-Weg 84
+30617 Dinslaken",Göppingen,Germany,DD-UE-219,Daewoo Lanos,2.26,0.46,2019-03-22 21:48:46.442609,2019-03-23 02:28:01.445428
+45,46743741-9466-e472-6b5f-5241f323ca74,Hilde Schacht,58,wkade@trommler.de,"Jessika-Johann-Gasse 5/5
+35282 Seelow",Hofgeismar,Germany,ERH-D-2489,MAZDA MAZDA6,6.93,0.48,2022-03-15 06:12:04.332386,2022-03-15 06:43:57.231088
+46,a425799a-a905-d750-7e1e-a9c573581a81,Wencke Beer,55,kambsgerd@aol.de,"Alessandro-Jopich-Straße 4
+91563 Lüneburg",Nördlingen,Germany,KF-WP-194,Ford Crown Victoria,7.99,0.22,2020-10-30 04:07:36.820832,2020-10-30 04:50:39.395204
+47,fb82860d-eabc-a8d0-b341-facdff0ac0f1,Winfried Mielcarek-Rörricht,48,qfechner@eigenwillig.net,"Gunther-Fritsch-Gasse 7
+14448 Scheinfeld",Dessau,Germany,FFB-I-6325,Honda CR-Z,2.71,0.66,2016-10-08 00:01:02.668000,2016-10-08 00:15:16.788789
+48,5306f3f5-1516-6570-5b7c-709acb175a5a,Marie-Luise Ernst,21,otfriedrosenow@googlemail.com,"Ackermannring 142
+07342 Wurzen",Duderstadt,Germany,IN-NP-993,Ford F150 SuperCrew Cab,1.96,0.62,2017-10-18 21:26:49.899650,2017-10-19 12:42:51.854820
+49,964a870c-7c87-9b74-1d87-8f9f9cdf5a86,Ellinor Mielcarek,31,heinz-gerdgierschner@hotmail.de,"Wirthplatz 668
+60089 Schwarzenberg",Zeulenroda,Germany,MR-H-349,Lincoln MKX,2.77,0.84,2021-12-30 18:05:57.668132,2021-12-31 08:33:34.968014
+50,30bcab0e-d857-0102-55d4-4936a1515607,Mohammad Gotthard-Gehringer,89,hans-guenter76@web.de,"Sinaida-Tlustek-Straße 31
+85800 Worbis",Suhl,Germany,HAM-QM-861,Ford Flex,4.14,0.66,2021-02-26 06:03:42.690452,2021-02-26 15:35:06.557668
+51,4562be7f-bb42-e0b2-0426-465e3e37952d,Istvan Schmiedecke,72,norman12@beckmann.com,"Tröstgasse 991
+81916 Hagenow",Neustrelitz,Germany,MM-TH-129,Mitsubishi Mirage,3.73,0.57,2022-08-22 09:54:38.727732,2022-08-22 23:31:12.499721
+52,5f3f5638-3870-1a14-b490-b6081dfc8352,Frauke Lorch,81,reinhilde64@meister.com,"Dussen vangasse 4
+29917 Weißwasser",Hersbruck,Germany,KÜN-K-7,Ford F350 Super Duty Regular Cab,2.94,0.47,2021-02-14 01:40:50.726093,2021-02-14 03:07:12.754277
+53,6d16ee18-5521-16dd-2ba4-b180cb69ca38,Annamaria Mühle,82,magnusanders@hotmail.de,"Abbas-Sölzer-Allee 631
+27129 Hammelburg",Saarlouis,Germany,AN-QA-595,Saab 9-7X,2.35,0.71,2018-08-26 14:05:01.259235,2018-08-26 20:10:50.218826
+54,c87a7463-19c1-6a0d-0feb-d845d0dfae43,Wendelin Mosemann,40,christianspeer@gmx.de,"Elfi-Gnatz-Weg 47
+30946 Gotha",Eisleben,Germany,DD-T-3,MAZDA MX-5 Miata,0.5,0.24,2015-07-14 01:46:49.148295,2015-07-14 09:27:30.469280
+55,38018b47-b29a-8b06-daf6-6c5f2577bffa,Hulda Mohaupt B.Eng.,64,zobeltillmann@yahoo.de,"Christa-Speer-Ring 332
+43437 Aue",Böblingen,Germany,WTM-OE-51,GMC Suburban 2500,7.57,0.71,2017-05-11 05:52:26.567016,2017-05-11 21:33:26.665518
+56,a25b59fd-92e8-e269-d12e-cbc40b9475b1,Ing. Raphael Trommler B.Eng.,86,zobeljulia@beyer.de,"Bachmannweg 369
+03999 Bremen",Garmisch-Partenkirchen,Germany,FF-P-64,Volkswagen Tiguan,9.37,0.35,2016-10-20 23:27:13.740006,2016-10-21 18:18:50.576570
+57,9a27d858-88c1-32ad-efbf-c19ee8f6cf32,Hilmar Bärer,47,georgine19@googlemail.com,"Tanja-Barkholz-Weg 4/4
+53978 Nabburg",Lobenstein,Germany,VB-N-96,Subaru Outback,6.74,0.62,2019-06-27 19:13:47.633465,2019-06-27 23:56:57.671524
+58,1fdb8b32-06d5-99e8-12f1-75ffae3b16ec,Amalie Karge,58,ingolf76@geisel.de,"Etzoldstraße 4
+06588 Aue",Tecklenburg,Germany,REG-EL-731,Volvo S80,5.93,0.5,2019-02-25 11:07:15.741973,2019-02-25 19:43:09.109099
+59,d480865f-9b38-fe80-3042-e325a28f5ab0,Karlheinz Bonbach,67,amaliedoerschner@gmx.de,"Paul-Rogner-Platz 3
+98923 Hettstedt",Nabburg,Germany,HAS-L-774,Lincoln Continental,4.17,0.26,2021-04-19 19:59:59.634294,2021-04-19 23:55:26.716298
+60,176ea1b1-6426-4cd5-1ea4-5cd69371a71f,Herr Philipp Mende,21,bhaase@hotmail.de,"Weißplatz 9/2
+23920 Luckau",Bützow,Germany,EA-G-8,Chevrolet Silverado 2500 HD Crew Cab,6.51,0.45,2016-08-31 18:53:30.181993,2016-08-31 21:51:30.942134
+61,1db53334-fb03-23a1-d576-d4155ec17dbe,Lia Birnbaum,83,aribert28@vollbrecht.com,"Wernerstraße 11
+78273 Kusel",Burgdorf,Germany,WND-HA-724,Genesis G80,7.43,0.27,2019-04-23 16:46:06.628880,2019-04-23 18:30:42.717796
+62,31d0b664-0589-f877-9b02-52440950fd13,Ilonka Dussen van,36,karl-juergen67@heinz.de,"Rustweg 37
+61557 Erfurt",Teterow,Germany,KO-YL-936,MAZDA 626,7.58,0.73,2020-05-20 12:17:46.084041,2020-05-20 19:28:07.527748
+63,b7d6467b-2f5a-522a-f87f-43fdf6062541,Irmtraud Scheibe,73,dan71@gmail.com,"Heike-Lübs-Platz 6/2
+83955 Borken",Neuss,Germany,WST-A-3795,MAZDA Tribute,9.57,0.26,2022-03-14 02:56:57.946351,2022-03-14 09:46:00.580302
+64,ba26d851-35e8-579a-7aaf-0e891fb797fa,Annelies Schleich,55,meinradkeudel@koehler.de,"Florian-Fliegner-Allee 2/8
+16882 Bamberg",Hagenow,Germany,BYL-C-198,Dodge Ram 2500 Regular Cab,3.89,0.25,2016-08-27 01:39:33.852074,2016-08-27 06:49:28.317994
+65,ade9b2b4-efdd-35f8-0fa3-4266ccfdba9b,Madeleine Briemer B.Sc.,53,kmisicher@yahoo.de,"Mareike-Schmidt-Straße 9/3
+29034 Ueckermünde",Sternberg,Germany,TÜ-QU-653,Pontiac Grand Prix,6.75,0.26,2018-09-28 04:01:35.472724,2018-09-28 05:27:08.573309
+66,9edfa3da-6cf5-5b15-8b53-031d05d51433,Univ.Prof. Edelbert Weihmann MBA.,78,veberth@roht.de,"Denise-Zimmer-Gasse 60
+84363 Kassel",Eichstätt,Germany,SLS-Z-238,Subaru Outback,8.23,0.31,2015-04-12 14:09:32.880920,2015-04-12 21:46:10.617748
+67,11ebcd49-428a-1c22-d5fd-b76a19fbeb1d,Karoline Huhn,50,gerdafroehlich@wernecke.com,"Carstengasse 0/4
+58373 Calau",Erkelenz,Germany,KC-YH-382,Ford Econoline E350 Super Duty Passenger,2.06,0.24,2017-02-16 07:18:36.837231,2017-02-16 12:49:48.084725
+68,4d125e7f-a59c-ec98-126c-bc8f38884479,Gerhart Mans,77,swulff@froehlich.de,"Fridolin-Fliegner-Ring 21
+63264 Goslar",Lübeck,Germany,NVP-MY-19,Ford F450 Super Duty Crew Cab,6.32,0.5,2020-03-27 05:39:32.687495,2020-03-27 22:24:05.650110
+69,0fa07a3f-2e29-5065-6fa2-31e959acdd98,Anne-Katrin Stadelmann,89,magretschenk@baehr.com,"Mülichengasse 801
+54430 Calau",Arnstadt,Germany,SOK-MZ-2715,BMW 6 Series,9.56,0.22,2022-08-21 14:26:04.197016,2022-08-22 00:23:47.015706
+70,98b33c6e-0a14-b90a-7795-e98680ee526e,Cäcilie Ackermann,29,szimmer@wagner.net,"Butteweg 2/4
+02498 Sangerhausen",Ebersberg,Germany,AC-KK-75,Chevrolet S10 Extended Cab,0.6,0.84,2015-07-06 04:32:05.047378,2015-07-06 12:33:40.713013
+71,642aad48-fcfc-fa81-b306-d70019d5f970,Benedikt Gieß,88,fkruschwitz@wernecke.de,"Annamaria-Paffrath-Ring 223
+57478 Ueckermünde",Kelheim,Germany,P-BS-78,Chevrolet 3500 Regular Cab,5.22,0.22,2021-05-04 21:02:43.168908,2021-05-05 01:33:24.952584
+72,e786ab37-5bca-47be-4298-17c53308fb2e,Dipl.-Ing. Sandy Trub,77,mudegordana@schmiedt.com,"Weißweg 529
+70885 Badibling",Main-Höchst,Germany,DU-O-12,Ford E150 Cargo,9.43,0.66,2020-09-01 19:16:35.628276,2020-09-02 07:58:08.286785
+73,e6fd68e8-d69c-91c2-7860-1602bb4a06cb,Dipl.-Ing. Hassan Hartmann,82,stiffellydia@aol.de,"Röhrichtgasse 4
+40989 Hohenstein-Ernstthal",Tecklenburg,Germany,SPN-B-551,Volvo V40,4.97,0.81,2019-06-30 17:27:28.930590,2019-07-01 14:09:15.572017
+74,b29c467d-2b5f-6932-91dc-59efeb21a3f6,Rosel Römer,47,isabellastadelmann@stadelmann.com,"Baumstr. 187
+78282 Starnberg",Bad Kreuznach,Germany,LAU-XM-94,Lincoln Continental,5.97,0.3,2022-09-04 00:37:26.877674,2022-09-04 09:16:37.226732
+75,c470f0e7-f76f-bfb8-3412-fc12ac322c12,Erkan Fritsch,37,filippo94@yahoo.de,"Schmiedtstraße 43
+00841 Northeim",Demmin,Germany,GI-MV-872,Chevrolet Uplander Cargo,2.04,0.65,2017-10-06 12:01:56.553412,2017-10-06 17:15:44.373005
+76,28805c5d-ad1b-8f60-c9e4-dab20edc6d2b,Harro Möchlichen,58,waltrud31@yahoo.de,"Nadin-Hornich-Gasse 5
+56591 Eisleben",Schmölln,Germany,GP-C-12,Nissan 350Z,8.04,0.31,2018-08-17 11:40:05.149031,2018-08-18 04:14:14.421433
+77,878b9f6b-57a1-cb71-2975-d279d86dbf11,Alessandro Weimer MBA.,70,loewerarnulf@yahoo.de,"Adlerring 69
+42271 Schwäbisch Hall",Sigmaringen,Germany,AUR-FA-666,Honda Odyssey,6.06,0.82,2016-06-19 15:37:54.804419,2016-06-20 07:15:08.679854
+78,ebe21368-98c7-5205-1e01-a934402d0baf,Ing. Stanislaw Renner MBA.,54,ruppersbergermeinolf@plath.de,"Ehlertstr. 6/0
+74343 Witzenhausen",Havelberg,Germany,GZ-NQ-236,Dodge Sprinter 3500 Cargo,7.93,0.84,2020-03-25 05:08:35.105161,2020-03-25 10:30:51.286489
+79,0361524c-2cc0-f859-aa65-24ab713b7e05,Irene Dörschner-Schönland,55,christiane73@grein.com,"Metzallee 8
+96267 Ueckermünde",Tecklenburg,Germany,GRZ-G-978,Chevrolet Express 2500 Cargo,0.99,0.46,2022-01-03 14:17:29.030362,2022-01-04 12:45:34.614982
+80,e66cd36e-68ef-8f5f-ae68-690a78bc7175,Alberto Klingelhöfer,75,owulf@web.de,"Stollstraße 7
+69233 Riesa",Sangerhausen,Germany,HH-A-97,BMW 6 Series,4.59,0.9,2022-10-13 11:39:08.105900,2022-10-13 22:15:49.637152
+81,eae2025e-8233-9e23-dff3-334b91b15f5d,Flora Mülichen-Rosemann,61,kreuselmarek@junitz.de,"Mohauptstr. 796
+98608 Marienberg",Husum,Germany,KYF-JI-4233,Hyundai Elantra,9.81,0.56,2015-01-05 16:37:45.908284,2015-01-05 22:51:09.136423
+82,637e0edc-5b6e-4ae7-a620-81434fbaecc0,Insa Trub-Gierschner,78,noraroemer@paffrath.net,"Strohplatz 6/3
+52259 Freising",Eggenfelden,Germany,HU-HW-12,Mercury Mystique,7.91,0.72,2021-11-05 13:47:54.936715,2021-11-06 05:40:06.466356
+83,27460f22-403d-1f83-a859-890cd670f668,Irmingard Kaul-Herrmann,34,augustinmitschke@ladeck.net,"Hofmannweg 49
+35485 Burg",Geldern,Germany,EBE-HA-11,Toyota Tacoma Access Cab,1.76,0.21,2015-08-12 04:35:31.044925,2015-08-12 16:38:12.691900
+84,753c7c99-032f-06ca-b0d9-c2aa8f837ef7,Edwin Roskoth-Eberhardt,89,scheelkati@googlemail.com,"Bienplatz 6/0
+77455 Borna",Neunburg vorm Wald,Germany,ERH-X-967,MINI Coupe,8.56,0.89,2022-08-26 09:22:28.084560,2022-08-26 09:45:30.934626
+85,bd30291a-55fe-a08e-143e-2e04bdd7d19b,Elwira Henck-Bähr,68,bjoernschmiedecke@gmail.com,"Kristian-Schenk-Allee 63
+83463 Senftenberg",Wolfenbüttel,Germany,MN-KR-21,Oldsmobile Cutlass Supreme,7.34,0.52,2022-05-06 13:33:11.774586,2022-05-07 04:02:35.654013
+86,2284b7a4-47e7-f593-8b58-85ca0bb2c3f0,Franz-Xaver Karz-Dobes,39,ibudig@schmidt.com,"Apollonia-Adolph-Ring 8
+17575 Weimar",Eichstätt,Germany,KU-XK-6,Acura ILX,7.86,0.46,2022-06-19 12:51:22.997006,2022-06-19 19:13:30.603078
+87,7b59051b-f400-48d7-c31d-5a973d792fa1,Katalin Oestrovsky,22,bheuser@aol.de,"Kochring 5/6
+91091 Marktheidenfeld",Sondershausen,Germany,GM-VQ-37,MAZDA 929,6.27,0.75,2021-08-16 08:47:10.203934,2021-08-17 09:28:35.882803
+88,ac642b4c-49b2-5ded-9c31-d9b25a2b745b,Dipl.-Ing. Justina Zorbach,75,iloewer@steckel.com,"Kösterstr. 95
+63779 Ebern",Döbeln,Germany,ROS-GM-7348,Chevrolet Suburban,5.23,0.29,2017-02-25 13:39:35.332434,2017-02-25 15:54:51.751775
+89,e456697c-f268-6baa-971c-702d5bf49c04,Reinhold Stumpf,22,marjanzimmer@gmail.com,"Tomasz-Hamann-Platz 974
+63960 Hünfeld",Diepholz,Germany,KYF-P-754,Oldsmobile Cutlass Ciera,3.46,0.4,2019-02-11 10:21:20.416882,2019-02-12 01:22:42.554781
+90,21e15094-9efe-e464-da90-f534a23d4c9d,Abraham Wilmsen,26,milanhaase@soeding.net,"Ullmannstr. 972
+69931 Bad Liebenwerda",Malchin,Germany,MKK-W-5219,GMC 3500 Crew Cab,1.83,0.47,2019-09-04 23:37:46.152374,2019-09-05 11:24:28.229556
+91,bf9cc545-6355-18f7-4f6f-a985b732d46f,Arzu Hörle,35,mielcarekfrancoise@paffrath.net,"Fatima-Jüttner-Straße 37
+71812 Groß-Gerau",Sebnitz,Germany,MZ-XP-58,Cadillac XTS,9.08,0.87,2022-11-27 04:52:02.508252,2022-11-28 08:48:01.280370
+92,14aa451c-a69c-fb85-d432-f8db6a174c1c,Frau Ernestine Riehl,57,vullmann@hahn.com,"Eckhart-Salz-Straße 649
+06396 Eichstätt",Genthin,Germany,HVL-BE-992,Lincoln MKS,4.57,0.77,2015-06-13 03:29:33.685766,2015-06-13 13:27:31.603875
+93,b2d650af-313b-32b7-9836-31890063e42f,Francis Conradi MBA.,87,slawomir04@walter.de,"Sandra-Geisler-Gasse 2/9
+83021 Göttingen",Erkelenz,Germany,NM-X-15,Pontiac Grand Am,1.3,0.39,2015-05-08 01:10:25.333940,2015-05-08 08:24:45.226456
+94,391cf046-3d4a-5d51-28fa-fd04559b5975,Iwona Buchholz,73,lutzjacobi-jaeckel@aol.de,"Vanessa-Gieß-Ring 55
+39097 Worbis",Tirschenreuth,Germany,WEN-UC-16,Ford F250 Super Duty Crew Cab,3.79,0.71,2022-08-26 16:55:35.843596,2022-08-26 19:47:00.251265
+95,b5d97ef7-60ef-1471-72b8-ff39a32c9b6f,Herr Ismet Preiß,61,gerd39@pieper.com,"Kobeltstraße 86
+75389 Ribnitz-Damgarten",Bitterfeld,Germany,G-H-2,Mercedes-Benz Metris WORKER Passenger,2.16,0.35,2022-09-16 13:53:05.734467,2022-09-17 04:48:11.398593
+96,dfe1b307-9172-5f0a-ac7c-8803e01bbf50,Hermann Eigenwillig B.Eng.,42,mijo62@web.de,"Lindnergasse 962
+22643 Rothenburg ob der Tauber",Weißenfels,Germany,N-Y-95,Lexus RX,3.12,0.5,2017-08-02 17:21:15.480551,2017-08-02 20:45:28.233788
+97,df26f517-66fa-f989-0813-5d586a1689ad,Alex Steinberg,41,almutloechel@aol.de,"Holzapfelweg 84
+12438 Diepholz",Säckingen,Germany,LEV-AN-112,Dodge Ram Wagon 2500,6.87,0.58,2018-05-06 06:08:38.532497,2018-05-06 07:11:01.330516
+98,c5adf681-6b10-e53a-9145-de05b3ab1b2c,Alfons Juncken B.Eng.,73,ulrichlosekann@reichmann.de,"Henschelstr. 61
+84425 Soltau",Gera,Germany,WIL-Z-781,GMC Envoy XUV,0.89,0.35,2022-12-19 08:23:25.039571,2022-12-19 17:57:08.447343
+99,2a69acc7-0bf9-c0ef-b581-6b74a985ab61,Hans-Theo Steinberg,37,etschentscher@web.de,"Heßweg 92
+19721 Ansbach",Monschau,Germany,NI-L-4331,Mitsubishi Outlander,8.81,0.26,2016-12-22 23:46:50.387789,2016-12-23 02:50:16.015542
